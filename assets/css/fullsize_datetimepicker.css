@@ -1,0 +1,26 @@
+.xdsoft_datetimepicker .xdsoft_datepicker {
+    width: 75% !important;
+}
+
+.xdsoft_datetimepicker .xdsoft_timepicker {
+    width: 20% !important;
+}
+
+.xdsoft_datetimepicker.xdsoft_inline {
+	width: 100% !important;
+}
+
+.xdsoft_datetimepicker .xdsoft_month {
+	margin-left: 120px !important;
+}
+
+.xdsoft_label xdsoft_year {
+	margin-left: 100px !important;
+}
+.xdsoft_datetimepicker .xdsoft_calendar table {
+	height: 370px !important;
+    width: 100% !important;
+}
+.xdsoft_datetimepicker .xdsoft_timepicker .xdsoft_time_box {
+	height: 350px !important;
+}
